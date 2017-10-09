@@ -1,29 +1,51 @@
-body{
+body {
     background: #333 !important;
 }
-div{
-    border-top: 2px groove #FF7F00;
-    border-bottom: 2px groove #FF7F00;
-    margin: 20px;
-    background: #333;
+
+main {
     display: flex;
     flex-direction: column;
-    color: #ffffff;
-    align-items: center;
-    padding: 15px;
-
 }
-button{
-    padding: 20px;
+
+.divs {
     margin: 20px;
+    display: flex;
+    color: #ffffff;
+    padding: 15px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.search {
+    width: 20%;
+    color: #333;
+}
+
+.btn-search,
+.btn-add {
+    width: 10%;
+}
+
+.btn-random {
     width: 30%;
+}
+
+.btn {
     border-radius: 10px;
     font-size: 20px;
-    color: #333;
     background: #FF7F00;
     border: none;
     color: #fff;
-} 
-span{
+}
+
+span {
     color: #FF7F00;
 }

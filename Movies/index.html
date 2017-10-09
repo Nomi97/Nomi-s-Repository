@@ -1,28 +1,44 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    </head>
-    <body>
-        <span id="antal">Antal filmer</span>
-        <div>
-                
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Movies</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+    <span id="antal"></span>
+    <main>
+        <div class="randomMovie divs">
             <h2 id="movies">What movie we watch?</h2>
-            <button id="btn" onclick="random()">random</button>
+            <button class="btn btn-random" onclick="randomMovie()">random</button>
             <span id="number"></span>
-            
-        
         </div>
-        
-        <script src="script.js"></script>
-    </body>
+
+
+        <div class="searchMovie divs">
+            <h2>Search for a movie</h2>
+            <form>
+                <input type="text" class="search" class="form-control" placeholder="Enter movie">
+                <input type="button" class="btn btn-search" value="check" onclick="checkMovie()">
+            </form>
+            <h3 class="search-result"></h3>
+        </div>
+
+
+        <div class="addMovie divs">
+            <h2>Add a movie</h2>
+            <form>
+                <input type="text" class="search add" class="form-control" placeholder="Enter movie">
+                <input type="button" class="btn btn-add" value="add" onclick="addMovie()">
+            </form>
+            <h3 class="add-result"></h3>
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+
 </html>
