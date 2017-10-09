@@ -1,0 +1,29 @@
+body{
+    background: #333 !important;
+}
+div{
+    border-top: 2px groove #FF7F00;
+    border-bottom: 2px groove #FF7F00;
+    margin: 20px;
+    background: #333;
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    align-items: center;
+    padding: 15px;
+
+}
+button{
+    padding: 20px;
+    margin: 20px;
+    width: 30%;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #333;
+    background: #FF7F00;
+    border: none;
+    color: #fff;
+} 
+span{
+    color: #FF7F00;
+}
