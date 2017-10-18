@@ -81,10 +81,22 @@ nav li {
 }
 
 .moreVideos {
+    display: grid;
     grid-column: 1/5;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 1em;
+    background: #949494;
+    grid-gap: 1em;
 }
 
 .sidebar {
     grid-column: 4/ span 1;
     display: grid;
+    background: #e3e3e3;
+    padding: 1em;
+    grid-gap: 1em;
+}
+
+.sidebar img {
+    width: 100%;
 }
