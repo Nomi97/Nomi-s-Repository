@@ -8,6 +8,7 @@ main {
 }
 
 .divs {
+    display: grid;
     margin: 20px;
     display: flex;
     color: #ffffff;

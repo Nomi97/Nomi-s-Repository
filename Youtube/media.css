@@ -1,0 +1,9 @@
+@media screen and (min-width: 1230px) {
+    .featured-items img {
+        width: 100%;
+        grid-column: 1/3;
+    }
+    .featured-items p {
+        grid-column: 1/3;
+    }
+}
