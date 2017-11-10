@@ -6,7 +6,7 @@
 }
 
 header {
-    grid-column: 1/6;
+    grid-column: 1/5;
     display: grid !important;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 1em;

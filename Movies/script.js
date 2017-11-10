@@ -28,8 +28,6 @@ function checkMovie() {
     }
 
 }
-
-
 function addMovie() {
     var film = $(".add").val()
     var result = movies.indexOf(film);
