@@ -1,0 +1,73 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+.me {
+    background: url("../img/pexels-photo-27665.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+    padding-top: 100px;
+}
+
+.face {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background: url("../img/dead.jpg");
+    background-size: contain;
+    margin: 1em auto;
+    border: 2px solid #fff;
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+    color: #fff;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 70px;
+    margin: 0;
+    border-bottom: 1px solid #fff;
+}
+
+.name {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.skills {
+    font-size: 30px;
+    margin: 5px;
+}
+
+nav {
+    background: #3C373B;
+    padding: 1em;
+}
+
+nav ul {
+    margin: auto;
+    width: 40%;
+    display: flex;
+    list-style-type: none;
+}
+
+nav li {
+    flex: 1;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff
+}

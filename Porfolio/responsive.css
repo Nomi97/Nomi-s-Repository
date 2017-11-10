@@ -1,0 +1,27 @@
+        @media screen and (max-width: 950px) {
+            .service {
+                grid-column: 1/4;
+            }
+            .portfolio {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        @media screen and (max-width: 950px) {
+            nav ul {
+                width: 100%;
+            }
+        }
+        
+        @media screen and (max-width:600px) {
+            .container {
+                width: 100% !important;
+            }
+        }
+        
+        @media screen and (max-width:520px) {
+            .portfolio img {
+                grid-column: 1/4;
+                width: 100%;
+            }
+        }

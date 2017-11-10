@@ -1,0 +1,195 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    color: #3C373B;
+}
+
+.home {
+    background-attachment: fixed;
+    background: url("../img/test1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 60%;
+    padding-top: 100px;
+    color: #fff;
+}
+
+.face {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background: url("../img/dead.jpg");
+    background-size: contain;
+    margin: 1em auto;
+    border: 2px solid #fff;
+}
+
+.me {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.me h1 {
+    font-size: 70px;
+    margin: 0;
+    border-bottom: 1px solid #fff;
+}
+
+.name {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.skills {
+    font-size: 30px;
+    margin: 0;
+}
+
+nav {
+    background: #3C373B;
+    padding: 1em;
+    z-index: 1000;
+}
+
+nav ul {
+    margin: auto;
+    width: 40%;
+    display: flex;
+    list-style-type: none;
+}
+
+nav li {
+    flex: 1;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff
+}
+
+.services {
+    width: 60%;
+    margin: 1em auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-top: 50px;
+}
+
+.icon {
+    margin: 1em auto;
+    height: 100px;
+    width: 100px;
+    border: 3px solid #3C373B;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #D6DADF;
+}
+
+.icon i {
+    color: #3C373B;
+    font-size: 40px;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    color: #3C373B;
+    text-align: center;
+}
+
+.service h2 {
+    margin: 10px;
+}
+
+.scrolled {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.container {
+    padding: 50px;
+    width: 60%;
+    margin: 1em auto;
+    text-align: justify;
+}
+
+#resume {
+    background: #EDEFF0;
+    line-height: 1.5;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.portfolio {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1em;
+}
+
+#contact {
+    background: #EDEFF0;
+}
+
+.social-media {
+    padding-top: 2em;
+    font-size: 20px;
+}
+
+.social-media ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.social-media li {
+    flex: 1;
+}
+
+form {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+form input {
+    margin: 1em 0;
+}
+
+.btn {
+    width: 20%;
+    margin: 1em auto;
+}
+
+footer {
+    background: #3C373B;
+    color: #fff;
+}
+
+.footainer {
+    padding-top: 2em;
+    width: 60%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.footainer ul {
+    list-style-type: none;
+}
+
+.container:last-child {
+    margin: 0 auto;
+}
