@@ -10,14 +10,14 @@ body {
     color: #3C373B;
 }
 
-.home {
+#home {
     background-attachment: fixed;
     background: url("../img/test1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    min-height: 60%;
-    padding-top: 100px;
+    min-height: 70%;
+    padding-top: 50px;
     color: #fff;
 }
 

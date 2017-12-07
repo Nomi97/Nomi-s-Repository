@@ -1,0 +1,274 @@
+﻿/*  General */
+
+html,
+body {
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container-fluid {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.tmp h1 {
+    /*    Centers all h1-h3 tags inside the sections and gives them some space */
+    color: #333;
+    text-align: center;
+    margin-bottom: 1em
+}
+.container p{
+    margin-bottom: 2em;
+}
+.tmp {
+    /*  Adds some spacing between each section  */
+    min-height: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.tmp:nth-child(even) {
+    /*  Gives every other section a diffrent background color */
+    background: #edeeef;
+}
+
+
+/*  Navbar  */
+
+.navbar {
+    background: RGBA(33, 98, 172, 0.7);
+    /*  Give the navbar a background color for mobilversion*/
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.nav-link:hover {
+    color: #2162ad !important;
+}
+
+.navbar li:last-child {
+    padding-right: 2em;
+    /*  Adds some spacing for the last menu item*/
+}
+
+nav a {}
+
+
+/*  Home page   */
+
+#Home {
+    /*  Gives the start page a background images and sets height and width*/
+    background-image: url("../image/Pitztaler_K2.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+
+/*  About us    */
+
+.media-icon {
+    /*  Places the icon next to the text*/
+    font-size: 4rem;
+    color: #2162ad;
+}
+
+
+/*  Software and Service   */
+
+#Service .media,
+#Software .media,
+#Team .media {
+    flex-direction: column;
+}
+
+.media-heading {
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#Software img,
+#Service img {
+    /*  Gives images height and width and adds some spacing*/
+    margin-bottom: 10%;
+    margin-top: 3%;
+    width: 100%;
+    height: auto;
+    max-width: 45rem;
+}
+
+
+/*  Team    */
+
+.team-info li {
+    /* Centers the info under the images and adds some spacing*/
+    text-align: center;
+    margin: 0.2rem;
+}
+
+i {
+    margin-right: 3%;
+}
+
+#Team img {
+    /*  Sets width and height of images*/
+    width: 100%;
+    height: auto;
+    max-width: 40rem;
+}
+
+.team-info i {
+    /*Increase size of social-media icons*/
+    font-size: 1.5rem;
+}
+
+
+/* Members hover effect */
+
+.view {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+.mask {
+    position: absolute;
+    bottom: 0;
+    /* Footer Height */
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: 21;
+}
+
+.view .mask {
+    opacity: 0;
+    background-color: rgba(50, 50, 50, 0.7);
+    transition: all 0.4s ease-in-out;
+}
+
+.view h2 {
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 2.5rem;
+    padding: 1rem;
+    transform: translateY(-10rem);
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+.view p {
+    transform: translateY(10rem);
+    opacity: 0;
+    transition: all 0.2s linear;
+    font-size: 1.5rem;
+    position: relative;
+    color: #fff;
+    padding: 1rem 2rem 2rem;
+    text-align: center
+}
+
+.view:hover .mask {
+    opacity: 1;
+}
+
+.view:hover h2,
+.view:hover p {
+    opacity: 1;
+    transform: translateY(0);
+    transition-delay: 0.1s;
+}
+
+
+/*  Contact    */
+
+.btn-primary {
+    /*  Changes color and centers the button*/
+    background-color: #2162ad;
+    border-color: #2162ad;
+    display: block;
+    margin: auto;
+}
+
+
+/* Creates google map */
+
+#map {
+    height: 30rem;
+    width: 100%;
+    margin-bottom: 10%;
+    border: 0.1rem groove #521422;
+    border-radius: 0.2rem;
+}
+
+
+/*  Footer  */
+
+footer {
+    background-color: #2162ad;
+    color: #FFF;
+}
+
+
+/*  Footer header    */
+
+.footer-title {
+    color: #FFF;
+    text-align: left;
+    padding: 5px;
+}
+
+
+/*  Footer ul   */
+
+.footer-txt {
+    margin: 0;
+    padding: 10px;
+}
+
+.footer-inner {
+    background-color: #333;
+    padding: 0.5rem;
+}
+
+.footer-inner p {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+/*  For Tablet  */
+
+@media (min-width: 768px) {}
+
+
+/*  For Laptop   */
+
+@media (min-width: 992px) {
+    .navbar {
+        background: none;
+    }
+    .scrolled {
+        background: linear-gradient(to left, rgba(33, 98, 172, 0.7)50%, #fff);
+        transition: all 0.2s linear;
+    }
+}
+
+
+/*  For PC  */
+
+@media (min-width: 1200px) {}
+
+;
