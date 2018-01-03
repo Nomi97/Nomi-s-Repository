@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ilight.Models.Downloads>
+
+@{
+    ViewBag.Title = "Downloads";
+}
+<div class="container">
+    <div class="header-main">
+        <h2>Downloads</h2>
+    </div>
+    <div class="download-box">
+
+        <table>
+        <tr>
+            <tr>
+               <th>Filename:</th>
+                <th>Download link:</th>
+            </tr>
+  
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.fileName) </td>
+                <td><a href="@Html.DisplayFor(modelItem => item.Location)">Click to download</a></td>
+            </tr>
+                }
+       
+        </table>
+     </div>
+</div>

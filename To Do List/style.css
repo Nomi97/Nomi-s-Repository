@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url("http://more-sky.com/data/out/12/IMG_492351.png") no-repeat fixed;
+    background-size: cover; 
+}
+main{
+padding: 20px;
+flex-direction: column;
+display: flex;
+}
+.Container{
+width:50%;
+margin: auto;
+}
+img{
+    width: auto;
+    height: 80px;;
+    float: right;
+}
+section{
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px groove blue;
+}
+li{
+    border-bottom: 1px solid #999;
+    text-align: center;
+    margin: 15px;
+}
+#newItem{
+    width: 89%;
+    height: 30px;
+    background: lightsalm;
+    color:#000;
+}
+#add{
+    width: 10%;
+    padding: 4px;
+}
+form{
+    margin-top: 50px;
+}
+article{
+    padding: 15px;
+}

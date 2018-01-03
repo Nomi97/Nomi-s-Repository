@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <title>I,light | @ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @{
+        TempData["currenturl"] =  HttpContext.Current.Request.RawUrl.ToString();
+        string currentUrl = TempData["currenturl"].ToString();
+
+        string Home = "";
+        string About = "";
+        string Contact = "";
+        string Login = "";
+        string Downloads = "";
+        string Background = "";
+        switch (currentUrl.ToLower())
+        {
+            case "/":
+                Home = "Active";
+                Background = "Background";
+                break;
+            case "/about":
+                About = "Active";
+                Background = "Background2";
+                break;
+            case "/contact":
+                Contact = "Active";
+                Background = "Background2";
+                break;
+            case "/account/login":
+                Login = "Active";
+                Background = "Background";
+                break;
+            case "/account/register":
+                Login = "Active";
+                Background = "Background";
+                break;
+            case "/account/resetpassword":
+                Login = "Active";
+                Background = "Background";
+                break;
+
+            case "/downloads":
+                Downloads = "Active";
+                Background = "Background2";
+                break;
+        }
+
+
+    }
+</head>
+<body class="@Background">
+    <header>
+        <nav class="navbar navbar-default main-nav">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="~/"><img class="ilight-logo" src="~/images/iLight_logo.png" alt="Ilight logo" /></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>@Html.ActionLink("Home", "Index", "Home", null,new { @Class = Home })</li>
+                        <li>@Html.ActionLink("About", "Index", "About", null, new { @Class = About })</li>
+                        <li>@Html.ActionLink("Contact", "Index", "Contact", null, new { @Class = Contact })</li>
+                        @if (Context.Session["loggedin"] != null)
+                        {
+                            <li>@Html.ActionLink("Downloads", "Index", "Downloads", null, new { @Class = Downloads })</li>
+                            <li>@Html.ActionLink("Logout", "Logout", "Account")</li>
+                        }
+                        else
+                        {
+                            <li>@Html.ActionLink("Login", "Login", "Account",null, new { @Class = Login })</li>
+                        }
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div><!--/.container-fluid -->
+        </nav>
+    </header>
+    <main>
+        @if (TempData["Message"] != null)
+        {
+            if (TempData["Type"].Equals("Success"))
+            {
+                <div class="alert alert-success">
+                    <p>@TempData["Message"]</p>
+                </div>
+            }
+            else if (TempData["Type"].Equals("Warning"))
+            {
+                <div class="alert alert-warning">
+                    <p>@TempData["Message"]</p>
+                </div>
+            }
+            else if (TempData["Type"].Equals("Danger"))
+            {
+                <div class="alert alert-danger">
+                    <p>@TempData["Message"]</p>
+                </div>
+            }
+
+        }
+        @RenderBody()
+    </main>
+    <footer class="footer">
+        <p class="footer-text">&copy; Copyright 2016 - I,Light</p>
+    </footer>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

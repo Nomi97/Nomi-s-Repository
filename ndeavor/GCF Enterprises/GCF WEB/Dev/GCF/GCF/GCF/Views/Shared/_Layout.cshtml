@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+    <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top ">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#Home"><img src="http://www.gcf-consulting.com/wp-content/uploads/2016/04/GCF-e1459497413728.png" /></a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto"></ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#About_us">About us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Software">Development</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Service">Service</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Team">Team</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Career">Career</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#Contact">Contact us</a>
+                </li>
+            </ul>
+</div>
+</nav>
+    </header>
+        @RenderBody()
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <div class=" col-12 col-md-4">
+                    <h3 class="footer-title">Contact</h3>
+                    <ul class="footer-txt">
+                        <li><i class="fa fa-home"></i> Vattenverksvägen 44H, 212 21 MALMÖ</li>
+                        <li><i class="fa fa-phone"></i> +46 70 665 4070</li>
+                        <li><i class="fa fa-envelope"></i> Contact@gcf-consulting.com</li>
+                    </ul>
+                </div>
+                <div class=" col-12 col-md-4">
+                    <h3 class="footer-title">About</h3>
+                    <ul class="footer-txt">
+                        <li><i class="fa fa-info-circle" aria-hidden="true"></i>About us</li>
+                        <li><i class="fa fa-eye"></i>Privacy Policy</li>
+                        <li><i class="fa fa-file-text-o"></i>Terms of Service</li>
+                    </ul>
+                </div>
+                <div class=" col-12 col-md-4">
+                    <h3 class="footer-title">Social media</h3>
+                    <ul class="footer-txt">
+                        <li><i class="fa fa-facebook"></i>Facebook</li>
+                        <li><i class="fa fa-twitter"></i>Twitter</li>
+                        <li><i class="fa fa-youtube"></i>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-inner">
+            <p>&copy; Copyright 2017- GCF-Consulting</p>
+        </div>
+    </footer>
+    <script>
+        function initMap() {
+                var myLatLng = { lat: 55.6093431, lng: 13.0439025 };
+                var mapDiv = document.getElementById('map');
+                var map = new google.maps.Map(mapDiv, {
+                    center: myLatLng,
+                    zoom: 12
+                });
+                var marker = new google.maps.Marker({
+                    position: myLatLng,
+                    map: map,
+                    title: 'Hello World!'
+                });
+               
+            }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDEAZRlYzlrI1MY8jJ9KkvoQn8RafFFYsI&callback=initMap"
+            async defer></script>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/script.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

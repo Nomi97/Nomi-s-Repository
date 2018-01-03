@@ -1,0 +1,340 @@
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\ApplicationInsights.config
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csc.exe
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csc.exe.config
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csc.rsp
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csi.exe
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csi.rsp
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.AppContext.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\vbc.exe
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\vbc.exe.config
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\vbc.rsp
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\GCF.dll.config
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\GCF.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\GCF.pdb
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Antlr3.Runtime.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.Web.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Newtonsoft.Json.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Owin.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Net.Http.Formatting.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Helpers.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.WebHost.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Mvc.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Optimization.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Razor.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\WebGrease.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Helpers.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Mvc.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Optimization.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Razor.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Antlr3.Runtime.pdb
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Newtonsoft.Json.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Net.Http.Formatting.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.WebHost.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.Web.xml
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.csprojResolveAssemblyReference.cache
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.dll
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.pdb
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.Migrations.InitialCreate.resources
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.csproj.GenerateResource.Cache
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.Migrations.Id.resources
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.Migrations.Contact.resources
+C:\Users\Nomi\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.Migrations.ImageUrl.resources
+C:\Users\noman\Desktop\GCF\GCF\bin\ApplicationInsights.config
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\csc.exe
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\csc.exe.config
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\csc.rsp
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\csi.exe
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\csi.rsp
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\System.AppContext.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\vbc.exe
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\vbc.exe.config
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\vbc.rsp
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\VBCSCompiler.exe
+C:\Users\noman\Desktop\GCF\GCF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\noman\Desktop\GCF\GCF\bin\GCF.dll.config
+C:\Users\noman\Desktop\GCF\GCF\bin\GCF.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\GCF.pdb
+C:\Users\noman\Desktop\GCF\GCF\bin\Antlr3.Runtime.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\EntityFramework.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\EntityFramework.SqlServer.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.Web.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Newtonsoft.Json.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Owin.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Net.Http.Formatting.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Helpers.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Http.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Http.WebHost.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Mvc.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Optimization.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Razor.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.WebPages.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.WebPages.Razor.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\WebGrease.dll
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Helpers.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Mvc.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Optimization.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Razor.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.WebPages.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.WebPages.Razor.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Antlr3.Runtime.pdb
+C:\Users\noman\Desktop\GCF\GCF\bin\Newtonsoft.Json.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Net.Http.Formatting.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Http.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\System.Web.Http.WebHost.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\EntityFramework.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\EntityFramework.SqlServer.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\noman\Desktop\GCF\GCF\bin\Microsoft.AI.Web.xml
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.csprojResolveAssemblyReference.cache
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.Migrations.InitialCreate.resources
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.Migrations.Id.resources
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.Migrations.Contact.resources
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.Migrations.ImageUrl.resources
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.csproj.GenerateResource.Cache
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.dll
+C:\Users\noman\Desktop\GCF\GCF\obj\Debug\GCF.pdb
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\ApplicationInsights.config
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csc.exe
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csc.exe.config
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csc.rsp
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csi.exe
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csi.rsp
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.AppContext.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Collections.Immutable.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.FileSystem.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Reflection.Metadata.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\vbc.exe
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\vbc.exe.config
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\vbc.rsp
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\VBCSCompiler.exe
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\VBCSCompiler.exe.config
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\GCF.dll.config
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\GCF.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\GCF.pdb
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Antlr3.Runtime.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.SqlServer.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.Web.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.WindowsServer.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.ApplicationInsights.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Google.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Web.Infrastructure.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Newtonsoft.Json.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Owin.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Net.Http.Formatting.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Helpers.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.WebHost.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Mvc.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Optimization.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Razor.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Deployment.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Razor.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\WebGrease.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Helpers.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Mvc.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Optimization.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Razor.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Deployment.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.WebPages.Razor.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Antlr3.Runtime.pdb
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Newtonsoft.Json.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Net.Http.Formatting.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\System.Web.Http.WebHost.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\EntityFramework.SqlServer.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Google.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.ApplicationInsights.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.WindowsServer.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\Microsoft.AI.Web.xml
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.pdb
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.csprojResolveAssemblyReference.cache
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.Migrations.InitialCreate.resources
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\obj\Debug\GCF.csproj.GenerateResource.Cache
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\csi.exe.config
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Console.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Diagnostics.Process.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.Compression.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.IO.Pipes.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.AccessControl.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.Claims.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Threading.Thread.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.ValueTuple.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Xml.XPath.dll
+C:\ndeavor\GCF Enterprises\GCF WEB\Dev\GCF\GCF\GCF\bin\roslyn\System.Xml.XPath.XDocument.dll

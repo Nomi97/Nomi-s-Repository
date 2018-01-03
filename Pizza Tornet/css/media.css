@@ -1,0 +1,26 @@
+
+@media (min-width: 992px) {
+    .pizza-meny ul {
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .pizza-meny li {
+        width: 25%;
+        border: none;
+        border-right: 1px solid #bfbfbf;
+        border-bottom: 1px solid #bfbfbf;
+        margin: 0;
+    }
+
+    .flexcard{
+        margin: 0px;
+        padding: 15px;
+        flex-direction: column
+    }
+.product{
+    flex-direction: row;
+}
+.pizza-img{
+    flex-direction: row;
+}
+}

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Pizzeria Tornet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel=stylesheet />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link href="css/font-awesome.css" rel="stylesheet" />
+    <link href="css/normalize.css" rel="stylesheet" />
+    <link href="css/fonts.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/site.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-toggleable-md navbar-light dropdown-menu-left ">
+        <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        <a class="navbar-brand" href="index.html">Pizzeria Tornet</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto"></ul>
+            <ul class="navbar-nav mr-left">
+                <li class="nav-item"><a class="nav-link" href="index.html">Hem</a></li>
+                <li class="nav-item"><a class="nav-link" href="meny.html">Meny</a></li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Kontakt</a>
+                </li>
+                <li class="nav-item"><a href="javascript:;" class="simpleCart_checkout nav-link"><i class="fa fa-shopping-cart"></i> <span class="simpleCart_quantity"></span> items - <span class="simpleCart_total"></span>
+                </a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="simpleCart_shelfItem">
+            <div class="product">
+                <div class="pizza-img">
+                    <img src="img/hawaii.png">
+                    <div>
+                        <h2 class="item_name">Margarita pizza</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rhoncus nunc sed neque ultricies placerat. Donec interdum sem sapien, et consequat metus consectetur vitae. Integer bibendum nec ex id maximus. Suspendisse volutpat
+                            mattis orci in consequat. Donec sed eros ut Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rhoncus nunc sed neque ultricies placerat. Donec interdum sem sapien, et consequat metus consectetur vitae. Integer
+                            bibendum nec ex id maximus. Suspendisse volutpat mattis orci in consequat. Donec sed eros ut </p>
+                    </div>
+                </div>
+                <div class="product-info">
+                    <div class="storlek">
+                        <h4>Variationer</h4>
+                        <select class="custom-select vars">
+                        <option data-price="60" selected="selected">Standard</option>
+                        <option data-price="50">Barn Pizza</option>
+                        <option data-price="120">Familje Pizza</option>
+                        <option data-price="70">Dubbel botten</option>
+                        <option data-price="80">Inbakad</option>
+                        <option data-price="75">halv Inbakad</option>
+                    </select>
+                        <div id="testo"></div>
+                    </div>
+
+
+                    <div class="Ingredienser">
+                        <h4>Ingredienser</h4>
+                        <ul>
+                            <li>Pizzasås,</li>
+                            <li>Ost</li>
+                        </ul>
+                        <a id="anpassa-btn" href="#anpassa" class="btn btn-info">Anpassa</a>
+                    </div>
+                </div>
+
+                <div class="quantity">
+                    <div class="Antal">
+                        <h4>Antal</h4>
+                        <button id="Minus" class="btn-quantity"><img src="img/minus.svg" class="antal" alt="minus" height="34" width="34px"></button>
+                        <input type="hidden" id="real_price" value="60" class="item_price" />
+                        <input type="text" value="1" readonly id="Quantity" class="form-control item_Quantity" id='Quantity'>
+                        <button id="Plus" class="btn-quantity"><img src="img/plus.svg" class="antal" alt="plus" height="34" width="34px"></button>
+                    </div>
+
+                    <div class="purchase">
+                        <h4><span id="price">Pris: 60kr</span></h4>
+                        <span class="item_price hidden">60</span>
+                    </div>
+                    <a class="item_add btn btn-success buy" href="javascript:;"> Lägg till</a>
+                    <a href="javascript:;" class="simpleCart_empty">Reset</a>
+
+                </div>
+            </div>
+
+
+            <div class="tillbehör">
+                <h3>Tillbehör</h3>
+                <ul>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">15kr</span>
+                                <h4 class="item_name">Pommes</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">10kr</span>
+                                <h4 class="item_name">Läsk</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">5kr</span>
+                                <h4 class="item_name">Extra kött</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">15kr</span>
+                                <h4 class="item_name">Extra ost</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">15kr</span>
+                                <h4 class="item_name">Pommes</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">5kr</span>
+                                <h4 class="item_name">Extra sås</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">15kr</span>
+                                <h4 class="item_name">Pommes</h4>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="simpleCart_shelfItem">
+                            <a class="item_add" href="javascript:;">
+                                <span class="item_price">10kr</span>
+                                <h4 class="item_name">läsk</h4>
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="extra-ingredienser " id="anpassa">
+                <h3>Anpassa</h3>
+                <div>
+                    <h5>Sås</h5>
+                    <ul>
+                        <li><input type="checkbox"> Pizza sås</li>
+                        <li><input type="checkbox"> Mild sås</li>
+                        <li><input type="checkbox"> vitlök sås</li>
+                        <li><input type="checkbox"> stark sås</li>
+                    </ul>
+                </div>
+                <div>
+                    <h5>Kött</h5>
+                    <ul>
+                        <li><input type="checkbox"> Bacon</li>
+                        <li><input type="checkbox"> Pepperikorv</li>
+                        <li><input type="checkbox"> Kyckling</li>
+                        <li><input type="checkbox"> Skinka</li>
+                        <li><input type="checkbox"> Nötkött</li>
+                    </ul>
+                </div>
+                <div class="test-div">
+                    <h5>Grönsaker</h5>
+                    <ul>
+                        <li><input type="checkbox"> oliver</li>
+                        <li><input type="checkbox"> Lök</li>
+                        <li><input type="checkbox"> Tomat</li>
+                        <li><input type="checkbox"> Svamp</li>
+                        <li><input type="checkbox"> Paprika</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container footer">
+            <div>
+                <h3 class="footer-title">öppettider</h3>
+                <ul class="footer-txt">
+                    <li> Mån-tors 11:00 - 22:00</li>
+                    <li>fre-lör 11:00 - 00:00</li>
+                    <li>sön 11:00 - 12:00</li>
+                </ul>
+            </div>
+            <div>
+                <h3 class="footer-title">Vi tar emot kort</h3>
+                <img src="img/VISA-Mastercard1.png" class="img-fluid">
+            </div>
+
+            <div>
+                <h3 class="footer-title">Hitta oss</h3>
+                <ul class="footer-txt">
+                    <li><i class="fa fa-home"></i>VattenverksVägen 10</li>
+                    <li><i class="fa fa-phone"></i>040-666-21-11</li>
+                    <li><i class="fa fa-phone"></i>040-630-60-82</li>
+                    <li><i class="fa fa-facebook"></i> <i class="fa fa-instagram"></i> <i class="fa fa-twitter"></i></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/simpleCart.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        simpleCart({
+            checkout: {
+                type: "PayPal",
+                email: "you@yours.com"
+            }
+        });
+    </script>
+</body>
+
+</html>

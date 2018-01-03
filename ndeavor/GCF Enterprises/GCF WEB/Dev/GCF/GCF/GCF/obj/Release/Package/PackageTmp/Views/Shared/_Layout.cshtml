@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-fixed-top">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#Home"><img src="http://www.gcf-consulting.com/wp-content/uploads/2016/04/GCF-e1459497413728.png" /></a>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                        <span class="glyphicon glyphicon-align-justify"></span>
+                    </button>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#Home"><b>Home</b></a></li>
+                        <li><a href="#About_us"><b>About us</b></a></li>
+                        <li><a href="#Software"><b>Development</b></a></li>
+                        <li><a href="#Service"><b>Service</b></a></li>
+                        <li><a href="#Team"><b>The team</b></a></li>
+                        <li><a href="#Career"><b>Career</b></a></li>
+                        <li><a href="#Contact"><b>Contact us</b></a></li>
+                   </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+        @RenderBody()
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 col-md-4 col-xs-4">
+                    <h3 class="footer-title">Contact</h3>
+                    <ul class="footer-txt">
+                        <li><i class="fa fa-home"></i> Vattenverksvägen 44H, 212 21 MALMÖ</li>
+                        <li><i class="fa fa-phone"></i> +46 70 665 4070</li>
+                        <li><i class="fa fa-envelope"></i> Contact@gcf-consulting.com</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 col-md-4 col-xs-4">
+                    <h3 class="footer-title">About</h3>
+                    <ul class="footer-txt">
+                        <li><i class="fa fa-info-circle" aria-hidden="true"></i>About us</li>
+                        <li><i class="fa fa-eye"></i>Privacy Policy</li>
+                        <li><i class="fa fa-file-text-o"></i>Terms of Service</li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 col-md-4 col-xs-4">
+                    <h3 class="footer-title">Social media</h3>
+                    <ul class="footer-txt">
+                        <li><i class="fa fa-facebook"></i>Facebook</li>
+                        <li><i class="fa fa-twitter"></i>Twitter</li>
+                        <li><i class="fa fa-youtube"></i>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-inner">
+            <p>&copy; Copyright 2017- GCF-Consulting</p>
+        </div>
+    </footer>
+    <script>
+        function initMap() {
+                var myLatLng = { lat: 55.6093431, lng: 13.0439025 };
+                var mapDiv = document.getElementById('map');
+                var map = new google.maps.Map(mapDiv, {
+                    center: myLatLng,
+                    zoom: 12
+                });
+                var marker = new google.maps.Marker({
+                    position: myLatLng,
+                    map: map,
+                    title: 'Hello World!'
+                });
+               
+            }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
+            async defer></script>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/script.js"></script>
+    @RenderSection("scripts", required: false)
+
+
+    <script>
+        $(document).ready(function () {
+            // Add smooth scrolling to all links
+            $("a").on('click', function (event) {
+
+                // Make sure this.hash has a value before overriding default behavior
+                if (this.hash !== "") {
+                    // Prevent default anchor click behavior
+                    event.preventDefault();
+
+                    // Store hash
+                    var hash = this.hash;
+
+                    // Using jQuery's animate() method to add smooth page scroll
+                    // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top
+                    }, 400, function () {
+
+                        // Add hash (#) to URL when done scrolling (default click behavior)
+                        window.location.hash = hash;
+                    });
+                } // End if
+            });
+        });
+    </script>
+
+</body>
+</html>

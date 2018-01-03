@@ -1,0 +1,30 @@
+﻿@model ilight.Models.Users
+
+@{
+    ViewBag.Title = "verifyReset";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="Reset">
+            <img class="login-logo" src="~/images/iLight_logo.png" alt="Bild på logo" />
+                <p class="input-msg">Please Enter your new password</p>
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @Placeholder = "Password",@Type="password" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+                </div>
+                
+            </div>
+            <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-block btn-flat btn-reset">Reset Password</button>
+                <div class="col-xs-12">
+                    <a href="@Url.Action("login", "account")">Return to Login</a>
+                </div>
+            </div>
+         </div>
+        }

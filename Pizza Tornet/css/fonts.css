@@ -1,0 +1,26 @@
+.navbar-brand{  /* Ändrar logo till italic */
+    font-style: italic;
+}
+section h3{ /* Alla h3 i sections blir italic */
+    font-style: italic;
+}
+
+.intro h1{
+    font-style: italic;
+    padding: 5px; 
+    align-self: center;
+}
+.meny h3{
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+
+}
+
+
+@media (min-width: 992px) {
+    .flexcard h2{
+    font-style: italic;
+     text-align: center;
+    }
+}

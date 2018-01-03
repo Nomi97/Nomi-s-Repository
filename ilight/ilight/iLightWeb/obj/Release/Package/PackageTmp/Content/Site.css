@@ -1,0 +1,335 @@
+﻿/* Changes the */
+html,body{
+	height:100%;
+	background-color:#f0f0f0;
+	overflow-x:hidden;
+}
+/*Images*/
+.ilight-logo{
+height:40px;
+width:auto;
+
+}
+.login-logo{
+	margin:auto;
+	width:auto;
+	display:block;
+}
+/* Custom font*/
+@font-face{
+	font-family:ILight;
+	src: url(../fonts/I-Robot.ttf);
+}
+
+
+ /* Navigation*/
+ .navbar-header{
+background-color:#0F384C;
+ }
+#navbar{
+background-color:#0F384C;
+height:70px;
+font-family:ILight;
+font-size:15px;
+margin:-3px;
+}
+
+#navbar ul li a{
+	color:#FFF;
+	padding:10px 40px;
+	margin-top:12px;
+}
+.Active 
+{
+	color:#FECC01 !important; 
+}
+#navbar ul li:hover a{
+	color:#FECC01; 
+}
+h2{font-family:ILight;
+	   text-align:center;
+	   color:#FFF;
+	}
+/* Header inside main*/
+.header-main {
+	background-color: #2CC384;
+	height: auto;
+	padding:5px;
+	margin-bottom:15px
+}
+/* Log in, Reset and Register*/
+.log-in{
+	width:40%;
+	margin:auto;
+	background-color:#FFF;
+	height:auto;
+	padding:30px;
+}
+.Reset{
+	width:40%;
+	  margin:auto;
+	background-color:#FFF;
+	height:auto;
+	padding:30px;
+}
+.register-box{
+	width:40%;
+	margin:auto;
+	background-color:#FFF;
+	height:400px;
+	padding:30px;
+
+}
+.contact-box{
+	width:100%;
+	margin:auto;
+	background-color:#FFF;
+	height:auto;
+	padding:15px;
+	
+}
+.download-box{
+	width:100%;
+	margin:auto;
+	background-color:#FFF;
+	height:auto;
+	padding:10px 0px 10px 50px ;
+
+}
+table{
+	width:100%;
+	
+}
+/* Submitt buttons for log,register and reset*/
+.btn-login{
+	width:75%;
+	margin:20px;
+}
+.btn-register{
+	width:75%;
+	margin:20px;
+}
+.btn-reset{
+	width:75%;
+	margin:20px;
+}
+
+
+/* CSS for smaller screen*/
+@media (max-width: 1008px){
+	.log-in{
+		width:80%;
+	}
+	.register-box{
+		width:80%;
+	}
+	.Reset{
+		width:80%;
+	}
+	.download-box{
+		width:80%;
+	}
+}
+/*Centers the text in log,register and reset*/
+.input-msg{
+	text-align:center;
+}
+/* Adds space between the inputs*/
+input{
+	margin:5px;
+}
+/* adds space between the last input and button */
+.input-space{
+margin-bottom:10px;
+}
+
+/* Footer*/
+.footer{
+	background-color:#666666;
+	height:70px;
+	color:#FFF;
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+/* Copyright text */
+.footer-text{
+	font-family:ILight;
+	font-size:15px;
+	text-align:center;
+	padding-top:20px;
+}
+
+	.view {
+	width: 20%;
+	height: auto;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	box-shadow: 1px 1px 2px #e6e6e6;
+	background-color:#FFF;
+}
+	.fa-5x {
+	font-size: 140px;
+	margin: 20px;
+}
+	
+	.mask{
+	width: 100%;
+	height: auto;
+	margin:10px;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	z-index:21;
+	}
+	.view h2 {
+	text-transform: uppercase;
+	font-family:ILight;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	font-size: 17px;
+	padding: 10px;
+	background-color: #303030;
+	margin: 90px 0 0 0
+}
+	.view p {
+	font-size: 12px;
+	position: relative;
+	color: #fff;
+	padding: 10px 20px 20px;
+	text-align: center
+}
+.view-first .fa-5x,
+.view-second .fa-5x,
+.view-third .fa-5x,
+.view-forth .fa-5x,
+.view-fifth .fa-5x {
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+ .view-first .mask,
+ .view-second .mask,
+ .view-third .mask,
+ .view-forth .mask,
+ .view-fifth .mask
+  {
+	opacity: 0;
+	background-color: rgba(219,127,8, 0.7); 
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-webkit-transition:all 0.2s ease-in-out;
+	
+	transition: all 0.4s ease-in-out;
+}
+.view-first h2,
+.view-second h2,
+.view-third h2,
+.view-forth h2,
+.view-fifth h2 {
+	-moz-transform: translateY(-100px);
+	-o-transform: translateY(-100px);
+	-webkit-transform: translateY(-100px);
+	-ms-transform: translateY(-100px);
+	transform: translateY(-100px);
+	opacity: 0;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.view-first p,
+.view-second p,
+.view-third p,
+.view-forth p,
+.view-fifth p {
+	-moz-transform: translateY(100px);
+	-ms-transform: translateY(100px);
+	-o-transform: translateY(100px);
+	-webkit-transform: translateY(100px);
+	transform: translateY(100px);
+	opacity: 0;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+.view-first:hover .fa-5x,
+.view-second:hover .fa-5x,
+.view-third:hover .fa-5x,
+.view-forth:hover .fa-5x,
+.view-fifth:host .fa-5x {
+	-moz-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+} 
+.view-first:hover .mask,
+.view-second:hover .mask,
+.view-third:hover .mask,
+.view-forth:hover .mask,
+.view-fifth:hover .mask
+
+{ 
+	opacity: 1;
+}
+.view-first:hover h2,
+.view-first:hover p,
+.view-second:hover h2,
+.view-second:hover p,
+.view-third:hover h2,
+.view-third:hover p,
+.view-forth:hover h2,
+.view-forth:hover p,
+.view-fifth:hover h2,
+.view-fifth:hover p {
+	opacity: 1;
+	-moz-transform: translateY(0);
+	-ms-transform: translateY(0);
+	-o-transform: translateY(0);
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+}
+.view-first:hover p,
+.view-second:hover p,
+.view-third:hover p,
+.view-forth:hover p,
+.view-fifth:hover p {
+	-moz-transition-delay: 0.1s;
+	-o-transition-delay: 0.1s;
+	-webkit-transition-delay: 0.1s;
+	transition-delay: 0.1s;
+}
+
+body{
+
+
+}
+.navbar{
+	border:none;
+}
+.jumbotron{
+	background:none;
+}
+.Background
+{
+	background-image:url("../images/background-image.jpg");
+	background-size:100% 100%;
+}
+.Background2
+{
+	
+	background-image:url("../images/background-image2.jpg");
+	background-size:100% 100%;
+}
+footer{
+	background-color:#0F384C !important;
+}
+
+
