@@ -1,0 +1,19 @@
+.sidebar {
+    background: #61A6DD;
+    padding: 24px;
+    color: #fff;
+    box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.75);
+    max-width: 600px;
+  }
+
+  .sidebar__item {
+      margin-bottom: 32px;
+  }
+
+  .sidebar__title {
+      margin-bottom: 8px;
+  }
+
+  .sidebar ul {
+      list-style-type: none;
+  }
