@@ -1,5 +1,5 @@
 .sidebar {
-    background: #61A6DD;
+    background: #00688B;
     padding: 24px;
     color: #fff;
     box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.75);
@@ -16,4 +16,13 @@
 
   .sidebar ul {
       list-style-type: none;
+  }
+
+  progress {
+      float: right;
+  }
+
+
+  a {   
+      color: #fff;
   }

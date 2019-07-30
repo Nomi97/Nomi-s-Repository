@@ -14,7 +14,7 @@ function Card({ title, sections, icon }) {
           <section className='card__details'>
             <h3 className='card__subtitle'>{section.title}</h3>
             <h4 className='card__date'>{`${section.date} ${section.country}`}</h4>
-            <p className='card__description'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim iste, odio nam similique dolor illum consequuntur magni ducimus consequatur rerum, voluptas est. Illum iure quia suscipit asperiores earum, voluptates nemo.</p>
+            <p className='card__description'>{section.content}</p>
             <div className="card__seperator"></div>
           </section>
         ))}
